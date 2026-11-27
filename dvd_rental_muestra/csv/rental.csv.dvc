@@ -1,0 +1,5 @@
+outs:
+- md5: 5648d91b8e8a724727f10243e5b2a1a2
+  size: 18004
+  hash: md5
+  path: rental.csv

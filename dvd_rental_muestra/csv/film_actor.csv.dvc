@@ -1,0 +1,5 @@
+outs:
+- md5: ea3a8f92402dba3779d4f1b8014430ba
+  size: 3714
+  hash: md5
+  path: film_actor.csv

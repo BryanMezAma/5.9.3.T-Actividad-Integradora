@@ -1,0 +1,5 @@
+outs:
+- md5: 9d7bcd03aaf41b4e5b74dba67b4a851c
+  size: 3630
+  hash: md5
+  path: actors.csv

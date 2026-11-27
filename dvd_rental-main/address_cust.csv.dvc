@@ -1,0 +1,5 @@
+outs:
+- md5: af3bd24a04dca53fc391c48a0f60db76
+  size: 38109
+  hash: md5
+  path: address_cust.csv
